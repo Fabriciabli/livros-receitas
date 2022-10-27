@@ -1,8 +1,7 @@
+# Livros de Receitas :woman_cook:
 
-# Livros de Receitas
+Olá! Bem vindo ao meu livro de receitas :closed_book:
 
-Olá! Bem vindo ao meu livro de receitas
-
- - Bolo de Chocolate
+ - Bolo de Chocolate :cake:
 
    
