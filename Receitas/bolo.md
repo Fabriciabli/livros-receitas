@@ -23,5 +23,21 @@ Junte o óleo, os ovos e a água fervente, misturando bem.
 Despeje a massa em uma forma de furo central (24 cm de diâmetro) untada com óleo e
 polvilhada com farinha de trigo, e leve ao forno médio (180°C), preaquecido, por 40 minutos.
 
+
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+# Receita de Ovo Cozido
+
+### Ingredientes
+
+ - 1 ovo
+ - 500 ml de água
+
+### Modo de preparo
+
+Em uma panela pequena coloque o ovo e a água.
+Leve ao fogo alto por cerca de 15 minutos.
+
+Despeje a água e descasque o ovo tomando cuidado com a temperatura.
 
