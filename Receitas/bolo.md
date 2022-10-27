@@ -1,8 +1,8 @@
 
 
- #Reita de Bolo de Chocolate
- 
-###Ingredientes
+ # Receita de Bolo de Chocolate
+
+### Ingredientes
 
  - 2 xícaras (chá) de farinha de trigo
  - 1 e meia xícara (chá) de açúcar
@@ -13,7 +13,7 @@
  - 3 ovos
  - 2 xícaras (chá) de água fervente
 
-###Modo de preparo
+### Modo de preparo
 
 Em um recipiente, misture a farinha de trigo, o açúcar, o Chocolate em Pó DOIS FRADES, 
 o fermento e o bicarbonato peneirados.
