@@ -22,3 +22,6 @@ Junte o óleo, os ovos e a água fervente, misturando bem.
 
 Despeje a massa em uma forma de furo central (24 cm de diâmetro) untada com óleo e
 polvilhada com farinha de trigo, e leve ao forno médio (180°C), preaquecido, por 40 minutos.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
